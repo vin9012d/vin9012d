@@ -57,10 +57,10 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/m-sehrawat">
+    <a href="https://www.linkedin.com/in/vin9012d/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vin9012d/" />
     </a>
-    <a href="https://mohit-portfolio.vercel.app/">
+    <a href="https://moonlit-gingersnap-d1532c.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://moonlit-gingersnap-d1532c.netlify.app/" />
     </a>
     <a title="vin9012c@gmail.com.com" href="mailto:vin9012c@gmail.com.com">
