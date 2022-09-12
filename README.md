@@ -63,9 +63,6 @@
     <a href="https://vinod-portfolio09.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://vinod-portfolio09.netlify.app/" />
     </a>
-    <a title="vin9012c@gmail.com" href="mailto:vin9012c@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vin9012c@gmail.com" />
-    </a>
 </p>
 <br>
 
